@@ -1,0 +1,2 @@
+This project uses ASIHTTPRequest to download and cache news articles from nation.co.ke
+The project was knocked up within a 4hour coding session therefore bugs are plenty, it was just proof of concept before commencing on a full blown news reader project
